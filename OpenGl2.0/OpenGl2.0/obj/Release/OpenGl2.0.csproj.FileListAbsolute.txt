@@ -1,0 +1,15 @@
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Release\OpenGl2.0.exe.config
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Release\OpenGl2.0.exe
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Release\OpenGl2.0.pdb
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Release\Tao.FreeGlut.dll
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Release\Tao.OpenGl.dll
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Release\Tao.Platform.Windows.dll
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Release\Tao.FreeGlut.xml
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Release\Tao.OpenGl.xml
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Release\Tao.Platform.Windows.xml
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\obj\Release\OpenGl2.0.csprojResolveAssemblyReference.cache
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\obj\Release\OpenGl2._0.Form1.resources
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\obj\Release\OpenGl2._0.Properties.Resources.resources
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\obj\Release\OpenGl2.0.csproj.GenerateResource.Cache
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\obj\Release\OpenGl2.0.exe
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\obj\Release\OpenGl2.0.pdb

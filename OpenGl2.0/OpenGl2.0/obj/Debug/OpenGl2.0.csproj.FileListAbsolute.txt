@@ -1,0 +1,14 @@
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Debug\OpenGl2.0.exe.config
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Debug\OpenGl2.0.exe
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Debug\OpenGl2.0.pdb
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\obj\Debug\OpenGl2._0.Form1.resources
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\obj\Debug\OpenGl2._0.Properties.Resources.resources
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\obj\Debug\OpenGl2.0.csproj.GenerateResource.Cache
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\obj\Debug\OpenGl2.0.exe
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\obj\Debug\OpenGl2.0.pdb
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Debug\Tao.FreeGlut.dll
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Debug\Tao.OpenGl.dll
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Debug\Tao.Platform.Windows.dll
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Debug\Tao.FreeGlut.xml
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Debug\Tao.OpenGl.xml
+c:\users\romeo\documents\visual studio 2017\Projects\OpenGl2.0\OpenGl2.0\bin\Debug\Tao.Platform.Windows.xml
